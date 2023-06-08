@@ -237,7 +237,7 @@ public class playercontroller : MonoBehaviour
         else if (HP == 2)
         {
             anim.SetBool("Damage1", false);
-            anim.SetBool("Dmg2,", true);
+            anim.SetBool("Dmg2", true);
         }
         else if(HP == 1)
         {
@@ -247,7 +247,7 @@ public class playercontroller : MonoBehaviour
         if (HP <= 0)
         {
             StartCoroutine(WaitToDead());
-            anim.SetBool("isDead", true);
+            
         }
     }
 
@@ -327,7 +327,7 @@ public class playercontroller : MonoBehaviour
   
     IEnumerator WaitToDead()
     {
-        /*animator.SetBool("IsDead", true);*/
+        anim.SetBool("isDead", true);
         canShoot = false;
         canMove = false;
         yield return new WaitForSeconds(0.4f);
