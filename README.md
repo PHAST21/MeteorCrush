@@ -6,10 +6,10 @@ The releases tab can also be used to access an executable for the game
 
 
 Team Members - 
-1) Abhyuday Chauhan (20BCG10090) - Lead Programmer
-2) Harshh (20BCG10098) - Lead Character Artist
-3) Chakshu Bhardwaj (20BCG10100) - Lead Background artist
-4) Yashasvee Iyer (20BCG10012) - Lead Music Composer
+1) Abhyuday Chauhan (20BCG10090) - Programmer
+2) Harshh (20BCG10098) - Character Artist
+3) Chakshu Bhardwaj (20BCG10100) -  Background artist
+4) Yashasvee Iyer (20BCG10012) - Music Composer
 
 Q - How we have designed the game?
 A - First initiative we took was to take a look at the document and set the scope for our project. Then, we distributed the work according to the members' capabilities and then completed the task assigned to us. Then we cross referenced it with the documentation to check if we assigned tasks were done and then we worked on some additional features which suited the theme of the game.
